@@ -79,7 +79,7 @@ const Portfolio = () => {
   return (
     <section id="portfolio" className="portfolio">
       <PageHeaderContent
-        headerText="My Portfolio"
+        headerText="My Projects"
         icons={<BsInfoCircleFill size={40} />}
       />
       <div className="portfolio-content">
