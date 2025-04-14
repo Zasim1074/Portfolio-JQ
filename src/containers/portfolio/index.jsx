@@ -16,8 +16,8 @@ const portfolioData = [
   {
     Name: "Online Code Editor",
     Image: Img1,
-    gLink: "https://github.com/Zasim1074/Project-judge",
-    vLink: "https://project-judge1.vercel.app/",
+    gLink: "https:https://github.com/Zasim1074/Code-Book",
+    vLink: "https://code-book-roan.vercel.app/",
   },
   {
     Name: "AI Image Generator",
