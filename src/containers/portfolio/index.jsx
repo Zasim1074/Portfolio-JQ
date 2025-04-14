@@ -16,7 +16,7 @@ const portfolioData = [
   {
     Name: "Online Code Editor",
     Image: Img1,
-    gLink: "https:https://github.com/Zasim1074/Code-Book",
+    gLink: "https://github.com/Zasim1074/Code-Book",
     vLink: "https://code-book-roan.vercel.app/",
   },
   {
