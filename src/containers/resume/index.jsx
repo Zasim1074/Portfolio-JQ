@@ -10,7 +10,13 @@ import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
 
 const resumeData = {
-  Experience: [
+  Experience: [{
+      title: "Frontend & Flutter Developer",
+      company: "FloorWalk Consultants Pvt. Ltd.",
+      description:
+        'Developing and maintaining React.js frontend web applications using JavaScript (ES6+) for internal and client-facing products. - Building and shipping cross-platform mobile applications using Flutter with fully responsive layouts for mobile and tablet devices. - Developed two production-ready Flutter applications ensuring consistent UI/UX across Android platforms. - Implemented reusable React components and Flutter widgets, improving development speed and code consistency. - Integrated REST APIs and WebSockets to enable real-time data updates and seamless frontend–backend communication. - Collaborated with designers and backend engineers to deliver pixel-perfect, responsive,and performance-optimized user interfaces. - Optimized frontend performance by improving component rendering, state management, and widget structuring.',
+      dateYear: "Aug 2025 - Present",
+    },
     {
       title: "Project Management Intern ",
       company: "FloorWalk Consultants Pvt. Ltd.",
@@ -22,10 +28,11 @@ const resumeData = {
 
   Education: [
     {
-      standard: "10th",
-      insitute: "RDGV School",
-      dateYear: "2019-2020",
-    },
+      standard: "BSC( Information Technology)",
+      insitute: "Guru Nanak Dev University, Amritsar",
+      score: "Passed Out",
+      dateYear: "Aug 2022 - Jun 2025",
+    },  
     {
       standard: "12th",
       insitute: "VDI InterCollege",
@@ -33,10 +40,10 @@ const resumeData = {
       dateYear: "2021-2022",
     },
     {
-      standard: "BSC( Information Technology)",
-      insitute: "Guru Nanak Dev University, Amritsar",
-      score: "CGPA: Pursuing%",
-      dateYear: "Aug 2022 - Currently Pursuing",
+      standard: "10th",
+      insitute: "RDGV School",
+      score: "Science",
+      dateYear: "2019-2020",
     },
   ],
 };
