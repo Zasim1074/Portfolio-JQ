@@ -59,7 +59,7 @@ const Contact = () => {
                 &nbsp; LinkedIn
               </div>
 
-              <div>{<MdPhone />}&nbsp; Mobile: +91 9918486080</div>
+              <div>{<MdPhone />}&nbsp; Mobile: +91 9555917856</div>
               <div>{<MdEmail />} &nbsp;Email: rdgvszasim@gmail.com</div>
             </div>
           </div>
