@@ -11,11 +11,11 @@ const personalDetails = [
   },
   {
     label: "Age",
-    value: ": 20",
+    value: ": 19",
   },
   {
     label: "Address",
-    value: ": Kanpur, India",
+    value: ": Indore, India",
   },
   {
     label: "Email",
@@ -23,12 +23,12 @@ const personalDetails = [
   },
   {
     label: "Contact No.",
-    value: ": + 91 9918486080",
+    value: ": + 91 9555917856",
   },
 ];
 
 const summary =
-  "Final-year BSc(IT) student with a robust foundation in web development. My technical skill set includes proficiency in HTML, CSS, JavaScript, and React with experience utilizing Vite for efficient project builds.​ Throughout my academic journey, I have actively engaged in creating innovative and practical frontend projects. I am committed to crafting clean, responsive, and user-friendly interfaces, with a passion for continuous learning and contributing to open-source projects. I am dedicated to explore new trends in frontend development and UI/UX design.​ I am eager to join a team where I can further develop my skills and contribute to building meaningful products.";
+  "Frontend Developer with ~6 months of hands-on experience building scalable, responsive, and performance-oriented web applications using React.js and modern JavaScript (ES6+). Strong experience in developing real-world projects, consuming REST APIs, managing application state, and implementing clean UI/UX. Currently working as a Frontend Developer at FloorWalk Consultants Pvt. Ltd., contributing to production-level applications. Seeking frontend roles in technology-driven companies.";
 
 const About = () => {
   return (
