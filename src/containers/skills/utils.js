@@ -49,11 +49,11 @@ export const skillData = [
     label: "Frontend Mobile",
     Data: [
       {
-        skillName: "Dart",
+        skillName: "Flutter",
         percentage: "100",
       },
       {
-        skillName: "Flutter",
+        skillName: "Dart",
         percentage: "100",
       },
       {
